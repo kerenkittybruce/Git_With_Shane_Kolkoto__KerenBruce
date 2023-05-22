@@ -1,0 +1,19 @@
+{
+  "name": "my-git-project",
+  "version": "1.0.0",
+  "description": "My first git project as an addition to the Git Tutorial Course hosted by Shane Kolkoto and Git .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerenkittybruce/Git_With_Shane_Kolkoto__KerenBruce.git"
+  },
+  "author": "Keren Chelsea Bruce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerenkittybruce/Git_With_Shane_Kolkoto__KerenBruce/issues"
+  },
+  "homepage": "https://github.com/kerenkittybruce/Git_With_Shane_Kolkoto__KerenBruce#readme"
+}
